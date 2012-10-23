@@ -9,3 +9,7 @@ int main()
         printf("another line\n");
 }
 
+int newfunc()
+{
+    return(0);
+}
