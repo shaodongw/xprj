@@ -12,6 +12,6 @@ int main()
 
 int newfunc()
 {
-    printf("");
+    printf("Improved");
     return(0);
 }
