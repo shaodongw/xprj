@@ -11,5 +11,6 @@ int main()
 
 int newfunc()
 {
+    printf("");
     return(0);
 }
