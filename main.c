@@ -8,6 +8,7 @@ int main()
         printf("Hi, there!\n");
         printf("This is the line just added.\n");
         printf("another line\n");
+        printf("another line\n");
 }
 
 int newfunc()
